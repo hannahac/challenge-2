@@ -1,0 +1,37 @@
+form{
+  background-color: whitesmoke;
+  flex-direction: column;
+   font-family: sans-serif;
+   padding-right: 200px;
+   padding-left: -200px;
+   text-align: center;
+   font-size: 20px;
+   border: 
+}
+.flex-item{
+flex-direction: column;
+text-align: center;
+}
+#submit{
+    line-height: 100px;
+    width: 200px;
+    background-color: lightblue;
+    align-self: center;
+}
+.flex-item{
+    flex-direction: column;
+}
+#description{
+text-align: center;
+font-family: sans-serif
+}
+.radio{
+    scale: inherit;
+}
+box model{
+    border-top: 100px;
+    border-bottom: 100px;
+    border-right: 200px;
+    border-left: 200px
+    border-color: lightblue;
+}
